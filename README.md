@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/portfolio-hero.svg" alt="Julián Brenes — Strategic Account Management and Customer Growth" width="100%">
+</p>
+
 # Julián Brenes
 ### Turning customer insight into business growth.
 **Strategic Account Management · Customer Growth · Ecommerce · Payments · SaaS**
@@ -18,6 +22,10 @@ Additional portfolio evidence includes approximately **10 Amazon US client accou
 ## How I work
 
 My strongest work sits at the intersection of customer context, commercial priorities, and analytical execution.
+
+<p align="center">
+  <img src="assets/customer-growth-loop.svg" alt="Diagnose, Prioritize, Align, Execute, Review" width="100%">
+</p>
 
 **1. Diagnose** — Use business and customer signals to understand what is happening.  
 **2. Prioritize** — Separate the highest-value opportunities and risks from background noise.  
