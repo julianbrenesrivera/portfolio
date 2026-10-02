@@ -1,43 +1,81 @@
 # Julián Brenes
 ### Turning customer insight into business growth.
-**Strategic Accounts · Customer Success · Ecommerce · Payments · SaaS**
+**Strategic Account Management · Customer Growth · Ecommerce · Payments · SaaS**
 
-I work at the intersection of customer relationships, commercial strategy, and analytical problem-solving. My experience spans strategic account management at Amazon and AO2, enterprise payments at PayPal, and SaaS sales development at Workday.
-
-I help turn business performance data into account priorities, customer conversations, and coordinated action.
+I turn customer and business performance data into account priorities, customer conversations, and coordinated action. My experience spans strategic account management at Amazon and AO2, enterprise payments at PayPal, and SaaS sales development at Workday.
 
 **Costa Rica · Native Spanish · Fluent English**  
-[Connect on LinkedIn](https://www.linkedin.com/in/julian-brenes-rivera/)
+[LinkedIn](https://www.linkedin.com/in/julian-brenes-rivera/) · [Explore case studies](#selected-case-studies)
 
-## Selected work
+## Selected impact
 
-| Case | Scope and contribution | Explore |
+| 300+ | 20 | ~35% | ~25 |
+|---:|---:|---:|---:|
+| CSMs and account managers adopted a diagnostic tool I built | Amazon US sellers managed | Average YoY GMS growth across that seller portfolio | Large-enterprise merchants managed at PayPal |
+
+Additional portfolio evidence includes approximately **10 Amazon US client accounts** at AO2, with performance approximately **10% above targets**, and seller lifecycle work across **Mexico and Brazil**.
+
+## How I work
+
+My strongest work sits at the intersection of customer context, commercial priorities, and analytical execution.
+
+**1. Diagnose** — Use business and customer signals to understand what is happening.  
+**2. Prioritize** — Separate the highest-value opportunities and risks from background noise.  
+**3. Align** — Turn analysis into clear customer and stakeholder conversations.  
+**4. Execute** — Coordinate actions across the account, specialists, and internal partners.  
+**5. Review** — Use business reviews, reporting, and experimentation to inform the next decision.
+
+[See the illustrative customer-growth operating model](artifacts/customer-growth-operating-model.md).
+
+## Selected case studies
+
+| Case | What it shows | Evidence |
 |---|---|---|
-| Scaling marketplace diagnostics | Built an Excel/macros tool adopted by 300+ CSMs and account managers | [Diagnostic tool and enablement](cases/01-marketplace-diagnostics.md) |
-| Strategic seller growth | Managed 20 US sellers; approximately 35% average year-over-year GMS growth across the portfolio | [Amazon account management](cases/02-strategic-seller-growth.md) |
-| Brand development | Supported Brand Registry, Brand Store, A+ Content, and packaging/image consistency within a broader growth roadmap | [Brand growth case](cases/03-brand-growth.md) |
-| Ecommerce account strategy | Managed approximately 10 Amazon US accounts; portfolio performance approximately 10% above targets | [AO2 account management](cases/04-ecommerce-accounts.md) |
-| Enterprise merchant relationships | Managed approximately 25 large-enterprise merchants across retail, ecommerce, and travel | [PayPal payments case](cases/05-enterprise-payments.md) |
-| Seller onboarding and lifecycle | Worked on segmented lifecycle communications for Mexico and Brazil | [Amazon lifecycle programs](cases/06-seller-lifecycle.md) |
+| [Scaling marketplace diagnostics](cases/01-marketplace-diagnostics.md) | Analytical tooling, enablement, cross-functional rollout | Excel/macros framework adopted by 300+ CSMs and account managers |
+| [Strategic seller growth](cases/02-strategic-seller-growth.md) | Strategic account ownership and growth planning | 20 US sellers; approximately 35% average YoY GMS growth |
+| [Marketplace brand-growth roadmap](cases/03-brand-growth.md) | Brand, content, legal coordination, commercial execution | Broader roadmap associated with approximately 20% annual revenue growth |
+| [Ecommerce account strategy](cases/04-ecommerce-accounts.md) | Forecasting, pricing, promotions, inventory, catalog, reporting | Approximately 10 Amazon US accounts; portfolio approximately 10% above targets |
+| [Enterprise merchant relationships](cases/05-enterprise-payments.md) | Enterprise account planning, payments adoption, business reviews | Approximately 25 large-enterprise merchants across retail, ecommerce, and travel |
+| [Seller onboarding and lifecycle](cases/06-seller-lifecycle.md) | Segmentation, experimentation, SQL/Redshift, lifecycle thinking | Mexico and Brazil seller onboarding programs |
 
-## What I bring
+## Illustrative working artifacts
 
-- **Strategic account management:** account planning, business reviews, stakeholder coordination, and growth opportunities.
-- **Customer success:** customer insight, enablement, adoption-focused conversations, and cross-functional advocacy.
-- **Ecommerce:** traffic and conversion analysis, catalog, promotions, inventory, Account Health, and commercial reporting.
-- **Payments:** enterprise merchant relationships, payment adoption, and commercial campaign coordination.
-- **Analytical execution:** Excel/macros, Salesforce, Tableau, SQL/Redshift experience, and clear business recommendations.
+These are **original portfolio reconstructions using generic or synthetic examples**. They are not employer-owned templates, internal screenshots, customer records, or source data.
+
+- [Marketplace diagnostic framework](artifacts/marketplace-diagnostic-framework.md) — a simplified example of how traffic and conversion signals can be turned into account questions and priorities.
+- [Strategic account review template](artifacts/strategic-account-review-template.md) — a generic structure for translating account performance into a customer-facing business review.
+- [Customer-growth operating model](artifacts/customer-growth-operating-model.md) — the operating loop connecting analysis, prioritization, stakeholder alignment, execution, and review.
+
+## Capability map
+
+**Strategic account management**  
+Account planning, business reviews, stakeholder coordination, growth opportunities, customer communication.
+
+**Customer growth / customer success**  
+Customer insight, enablement, adoption-focused conversations, cross-functional advocacy, lifecycle thinking.
+
+**Ecommerce**  
+Traffic and conversion analysis, catalog, pricing, promotions, inventory, Account Health, forecasting, commercial reporting.
+
+**Payments**  
+Enterprise merchant relationships, payment adoption, commercial initiatives, KPI reviews.
+
+**Analytical execution**  
+Excel/macros, Salesforce, Tableau, SQL/Redshift experience, experimentation, and business recommendations.
 
 ## Career context
 
-My Amazon experience includes Customer Success, Senior Strategic Account Management, Brand Registry, and Email Product Management for LATAM. At AO2, I managed Amazon US accounts and coordinated with PPC specialists. At PayPal, I worked as a Large Enterprise Account Executive in Mexico.
+My Amazon experience includes Customer Success, Strategic Account Management, Senior Strategic Account Management, Brand Registry, and Email Product Management for LATAM. At AO2, I managed Amazon US accounts and coordinated with PPC specialists. At PayPal, I worked as a Large Enterprise Account Executive in Mexico.
 
 I currently work as a Senior Sales Development Representative at Workday, focused on inbound discovery, qualification, and coordination with account executives.
 
-## About these case studies
+## Evidence and confidentiality
 
-These are concise retrospective accounts of my professional contributions. Figures are approximate where indicated. Portfolio and program outcomes reflect broader business performance and team contributions; they are not claims of isolated causal impact.
+This portfolio is designed as a public evidence layer for my professional experience.
 
-This repository contains written case studies, not employer-owned code, source datasets, internal presentations, or customer records. The historical Excel tool is described rather than distributed.
+- Figures are approximate where explicitly indicated.
+- Portfolio and program outcomes reflect broader business performance and team contributions; they are not claims of isolated causal impact.
+- Employer-owned code, source datasets, internal presentations, confidential thresholds, customer records, and credentials are not published.
+- Illustrative artifacts are reconstructions created for this portfolio and use generic or synthetic examples.
 
-For a conversation about strategic accounts, customer growth, or ecommerce, [contact me on LinkedIn](https://www.linkedin.com/in/julian-brenes-rivera/).
+For a conversation about strategic accounts, customer growth, ecommerce, payments, or SaaS, [connect with me on LinkedIn](https://www.linkedin.com/in/julian-brenes-rivera/).
