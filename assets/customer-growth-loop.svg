@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Customer growth operating model</title>
+  <desc id="desc">Five-step operating model: Diagnose, Prioritize, Align, Execute, Review.</desc>
+  <rect width="1200" height="420" rx="28" fill="#FEFEFE"/>
+  <text x="64" y="66" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="2.4" fill="#66707A">CUSTOMER-GROWTH OPERATING MODEL</text>
+  <text x="64" y="110" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#141415">From signal to coordinated action.</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="64" y="178" width="180" height="122" rx="20" fill="#F1F8FE" stroke="#C8D4DF"/>
+    <text x="88" y="216" font-size="14" letter-spacing="1.8" fill="#66707A">01</text>
+    <text x="88" y="252" font-size="24" font-weight="700" fill="#141415">Diagnose</text>
+    <text x="88" y="278" font-size="15" fill="#4D545B">Read the signal</text>
+
+    <path d="M254 239 H284" stroke="#9DA6B0" stroke-width="2"/>
+    <path d="M278 232 L286 239 L278 246" fill="none" stroke="#9DA6B0" stroke-width="2"/>
+
+    <rect x="296" y="178" width="180" height="122" rx="20" fill="#E6F2FE" stroke="#C8D4DF"/>
+    <text x="320" y="216" font-size="14" letter-spacing="1.8" fill="#66707A">02</text>
+    <text x="320" y="252" font-size="24" font-weight="700" fill="#141415">Prioritize</text>
+    <text x="320" y="278" font-size="15" fill="#4D545B">Choose what matters</text>
+
+    <path d="M486 239 H516" stroke="#9DA6B0" stroke-width="2"/>
+    <path d="M510 232 L518 239 L510 246" fill="none" stroke="#9DA6B0" stroke-width="2"/>
+
+    <rect x="528" y="178" width="180" height="122" rx="20" fill="#CDE4FB" stroke="#B7C9D8"/>
+    <text x="552" y="216" font-size="14" letter-spacing="1.8" fill="#66707A">03</text>
+    <text x="552" y="252" font-size="24" font-weight="700" fill="#141415">Align</text>
+    <text x="552" y="278" font-size="15" fill="#4D545B">Create shared context</text>
+
+    <path d="M718 239 H748" stroke="#9DA6B0" stroke-width="2"/>
+    <path d="M742 232 L750 239 L742 246" fill="none" stroke="#9DA6B0" stroke-width="2"/>
+
+    <rect x="760" y="178" width="180" height="122" rx="20" fill="#E6F2FE" stroke="#C8D4DF"/>
+    <text x="784" y="216" font-size="14" letter-spacing="1.8" fill="#66707A">04</text>
+    <text x="784" y="252" font-size="24" font-weight="700" fill="#141415">Execute</text>
+    <text x="784" y="278" font-size="15" fill="#4D545B">Coordinate the work</text>
+
+    <path d="M950 239 H980" stroke="#9DA6B0" stroke-width="2"/>
+    <path d="M974 232 L982 239 L974 246" fill="none" stroke="#9DA6B0" stroke-width="2"/>
+
+    <rect x="992" y="178" width="144" height="122" rx="20" fill="#F1F8FE" stroke="#C8D4DF"/>
+    <text x="1016" y="216" font-size="14" letter-spacing="1.8" fill="#66707A">05</text>
+    <text x="1016" y="252" font-size="24" font-weight="700" fill="#141415">Review</text>
+    <text x="1016" y="278" font-size="15" fill="#4D545B">Learn + iterate</text>
+  </g>
+
+  <path d="M1064 316 C1064 366 154 372 154 316" fill="none" stroke="#CDE4FB" stroke-width="3" stroke-dasharray="6 8"/>
+  <path d="M146 324 L154 314 L162 324" fill="none" stroke="#9DA6B0" stroke-width="2"/>
+</svg>
