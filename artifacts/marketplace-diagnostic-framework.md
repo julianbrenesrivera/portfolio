@@ -11,6 +11,10 @@ It does not reproduce Amazon thresholds, source code, customer data, internal do
 
 ## Diagnostic view
 
+<p align="center">
+  <img src="../assets/marketplace-matrix.svg" alt="Illustrative marketplace traffic and conversion diagnostic matrix" width="92%">
+</p>
+
 A simple way to structure marketplace performance is to ask two separate questions:
 
 1. **Are customers reaching the offer?** — represented here by traffic.
