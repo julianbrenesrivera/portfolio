@@ -5,6 +5,10 @@
 
 ## The operating loop
 
+<p align="center">
+  <img src="../assets/customer-growth-loop.svg" alt="Customer growth operating loop: Diagnose, Prioritize, Align, Execute, Review" width="100%">
+</p>
+
 Across strategic account management, ecommerce, payments, and lifecycle work, a recurring pattern in my experience is:
 
 ### 1. Diagnose
